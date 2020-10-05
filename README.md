@@ -1,2 +1,2 @@
 # Data-science
-to help polish my data science skills
+data science... Machine Learning
